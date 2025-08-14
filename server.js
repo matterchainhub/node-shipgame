@@ -1,5 +1,5 @@
 var express = require('express');
-const dotenv = require('dotenv');
+var dotenv = require('dotenv');
 dotenv.config();
 
 var app = express();
